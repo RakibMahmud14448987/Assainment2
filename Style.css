@@ -1,0 +1,110 @@
+ .box{ display: flex;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+ }
+
+ .navbar{
+   display: flex;
+   align-items: center;
+    padding: 20px; 
+   text-align: center;
+}
+.nav{
+color:#424247;
+ font-size: 18px;
+ font-weight: 400;
+ 
+}
+.Rakib1{
+    flex: 50%;
+   margin: 20px;
+}
+.Rakib1{
+    
+}
+.box2{
+    text-align: center;
+}
+ .main-color{
+    color: #FF5400;
+    font-size: 18px;
+   font-weight: 700;
+ }
+.Travel {
+color: #FF5400;
+ font-size: 36px;
+ font-style: normal;
+ font-weight: 800;
+ 
+
+ }
+ .Car{
+ color: #131318;
+ font-size: 36px;
+ font-weight: 800;
+ }
+.navbar a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 40px ;
+    grid-column-end:400px;
+}
+/* samll device */
+  /* @media screen and (max-width:576px) {
+    .Rakib1{
+      display: flex;
+      grid-template-columns: 1;
+    } */
+    
+  
+  .box{
+    position: relative;
+   
+}
+.suim-container img{
+  width: 100%;
+
+}
+.Rakib2{
+   color: #FFF;
+   font-size: 64px;
+   font-weight: 800;
+    top: -620px;
+    left: 400px;
+    right: 138px;
+
+}
+.Rakib3{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 600px;
+    /* line-height: px; */
+    top:-px;
+    right: 300px;
+
+
+}
+/* /* .Rakib5{
+ 
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+    top: -1000px;
+    left: 500px; */
+
+.Rakib6{
+    margin-right:450px;
+    margin-top: 95px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+
+    
+
+
+
+    
